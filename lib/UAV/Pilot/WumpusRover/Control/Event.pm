@@ -123,7 +123,7 @@ An event-driven version of the WumpusRover Control.
     init_event_loop( $cv, $event );
 
 Sets up the event loop.  Takes C<$cv> (an C<AnyEvent::Condvar>) and C<$event> 
-(a C<UAV::Pilot::EasyEvent).
+(a C<UAV::Pilot::EasyEvent>).
 
 Will listen for joystick events.
 
