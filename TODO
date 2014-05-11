@@ -1,0 +1,1 @@
+* Remove Packet-related classes in favor of UAV::Pilot::ArdupilotProtocol
