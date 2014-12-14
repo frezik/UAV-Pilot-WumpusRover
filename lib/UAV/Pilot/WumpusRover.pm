@@ -29,8 +29,6 @@ use namespace::autoclean;
 
 # ABSTRACT: Control a rover over WiFi with a video feed
 
-our $VERSION = 0.2;
-
 use constant DEFAULT_PORT       => 49_000;
 use constant DEFAULT_VIDEO_PORT => 49_001;
 
