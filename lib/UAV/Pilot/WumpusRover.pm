@@ -27,6 +27,8 @@ use warnings;
 use Moose;
 use namespace::autoclean;
 
+# ABSTRACT: Control a rover over WiFi with a video feed
+
 our $VERSION = 0.2;
 
 use constant DEFAULT_PORT       => 49_000;
@@ -40,7 +42,7 @@ __END__
 
 =head1 NAME
 
-  UAV::Pilot::WumpusRover
+  UAV::Pilot::WumpusRover - Control a rover over WiFi with a video feed
 
 =head1 DESCRIPTION
 

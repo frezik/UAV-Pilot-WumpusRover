@@ -1,3 +1,8 @@
+0.3 2014-12-14
+
+- Switch to Dist::Zilla
+- Convert share/WumpusRover.uav to lib/UAV/Pilot/WumpusRover/Commands.pm
+
 0.2 2014-04-27
 
 - Busywork adding license headers and POD test
