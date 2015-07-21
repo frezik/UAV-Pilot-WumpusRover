@@ -1,4 +1,4 @@
-# Copyright (c) 2014  Timm Murray
+# Copyright (c) 2015  Timm Murray
 # All rights reserved.
 # 
 # Redistribution and use in source and binary forms, with or without 
@@ -59,7 +59,7 @@ be compatible; this will happen Soon(tm).
 
 =head1 LICENSE
 
-Copyright (c) 2014  Timm Murray
+Copyright (c) 2015  Timm Murray
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without 

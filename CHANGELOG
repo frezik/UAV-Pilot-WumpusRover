@@ -1,3 +1,7 @@
+0.4 2015-07-20
+
+- Cleanup optional SDL dependencies that weren't optional before
+
 0.3 2014-12-14
 
 - Switch to Dist::Zilla
